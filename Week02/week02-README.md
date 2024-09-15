@@ -1,6 +1,6 @@
 Need Python 3.x
 
-Need the lib as following:  
+Need the libs as following:  
 import pandas as pd  
 import math  
 import numpy as np  
