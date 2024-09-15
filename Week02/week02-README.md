@@ -4,7 +4,7 @@ Need the lib as following:
 
 import pandas as pd
 
-import math \n
+import math  
 import numpy as np \n
 import matplotlib.pyplot as plt
 from statsmodels.tsa.arima.model import ARIMA
