@@ -1,9 +1,9 @@
 Need Python 3.x
 
 Need the lib as following:
-import pandas as pd
-import math
-import numpy as np
+import pandas as pd \n
+import math \n
+import numpy as np \n
 import matplotlib.pyplot as plt
 from statsmodels.tsa.arima.model import ARIMA
 from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
