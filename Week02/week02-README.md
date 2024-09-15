@@ -1,7 +1,9 @@
 Need Python 3.x
 
 Need the lib as following:
-import pandas as pd \n
+
+import pandas as pd
+
 import math \n
 import numpy as np \n
 import matplotlib.pyplot as plt
